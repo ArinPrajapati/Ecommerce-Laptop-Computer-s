@@ -125,7 +125,7 @@ body {
 /* home page */
 
 #hero {
-  background: url("img/hero4.jpg");
+  background: url("./img/hero4.jpg");
 
   height: 90vh;
   width: 100%;
@@ -147,7 +147,7 @@ body {
 }
 
 #hero button {
-  background-image: url("/img/button.png");
+  background-image: url("./img/button.png");
   background-color: transparent;
   color: #fdf69a;
   border: 0;
@@ -291,7 +291,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("/img/banner/b2.jpg");
+  background-image: url("./img/banner/b2.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -332,7 +332,7 @@ body {
   justify-content: center;
   align-items: flex-start;
 
-  background-image: url("/img/banner/b3.jpg");
+  background-image: url("./img/banner/b3.jpg");
   min-width: 400px;
   width: 45%;
   height: 50vh;
@@ -373,7 +373,7 @@ body {
 }
 
 #sm-banner .banner-box:nth-child(2) {
-  background-image: url("/img/banner/b4.jpeg");
+  background-image: url("./img/banner/b4.jpeg");
   background-position: center;
 }
 
@@ -390,7 +390,7 @@ body {
   justify-content: center;
   align-items: flex-start;
 
-  background-image: url("/img/banner/b5.webp");
+  background-image: url("./img/banner/b5.webp");
   min-width: 30%;
   width: 30%;
 
@@ -415,12 +415,12 @@ body {
 }
 
 #banner3 .banner-box:nth-child(2) {
-  background-image: url("/img/banner/b6.jpg");
+  background-image: url("./img/banner/b6.jpg");
   background-position: right;
 }
 
 #banner3 .banner-box:nth-child(3) {
-  background-image: url("/img/banner/b7.webp");
+  background-image: url("./img/banner/b7.webp");
   background-position: center;
 }
 
@@ -429,7 +429,7 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background-image: url("img/banner/tile_background.png");
+  background-image: url("./img/banner/tile_background.png");
   background-repeat: no-repeat;
   background-color: #041e42;
 }
